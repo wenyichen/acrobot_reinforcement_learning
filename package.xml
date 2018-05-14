@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <package>
-  <name>simple_create</name>
+  <name>acrobot_package</name>
   <version>0.0.1</version>
-  <description>The simple_create package</description>
+  <description>The acrobot package</description>
 
-  <maintainer email="jackmorrison1@gmail.com">jack</maintainer>
+  <maintainer email="wenyichen@outlook.com">Wenyi Chen</maintainer>
   <license>BSD</license>
 
   <buildtool_depend>catkin</buildtool_depend>
